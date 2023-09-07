@@ -45,14 +45,6 @@ ol {
   width: 1440px;
   margin: auto;
   height: 534px;
-  /*display: flex;
-  flex-direction: row;
-  align-items: end;
-  justify-content: center;
-  gap: 30px;
-  margin: 133px 30px;
-  width: 1140px;
-  height: 534px;*/
 }
 
 .result {
@@ -75,9 +67,6 @@ ol {
 }
 
 .search-form {
-  /*display: flex;
-  justify-content: space-between;
-  align-items: start;*/
   display: flex;
   height: 54px;
   flex-direction: row;
